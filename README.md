@@ -204,4 +204,4 @@ This repository serves as the official landing page for Escape Everlit. The soft
 **Get the most recent version of Escape Everlit today!**
 
 ---
-**Last updated:** 2026-11-14 09:55:15 UTC
+**Last updated:** 2026-11-14 16:26:47 UTC
